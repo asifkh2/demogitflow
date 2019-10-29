@@ -21,5 +21,5 @@ git branch
 
 git add .
 ```
-Want to read credible news [Home Page} (https://www.dawn.com/).
+Want to read credible news [Home Page](https://www.dawn.com/).
 
