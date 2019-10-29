@@ -14,5 +14,12 @@
 
 demo git flow
 
+```
+git status
+
+git branch
+
+git add .
+```
 
 
