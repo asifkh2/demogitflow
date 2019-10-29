@@ -10,3 +10,4 @@ demo git flow
 Bold test
 **It's Bold Fonts**
 ***Example of bold and italic font***
+~~It's a wrong text~~
