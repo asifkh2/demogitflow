@@ -9,4 +9,4 @@ demo git flow
 
 Bold test
 **It's Bold Fonts**
-*** Example of bold and italic font ***
+***Example of bold and italic font***
